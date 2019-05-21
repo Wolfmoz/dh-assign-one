@@ -1,4 +1,4 @@
-# Digital Humanities Assignment
+# Digital Humanities 1
 
 ---
 
@@ -9,3 +9,4 @@
 
 
 Steve Truman
+
